@@ -12,4 +12,11 @@ Grâce à des visualisations variées (graphiques linéaires, histogrammes, came
 
 Ce rapport a pour objectif d’aider les décideurs à suivre les résultats, identifier les tendances, détecter les écarts et orienter les actions stratégiques grâce à une lecture visuelle rapide et pertinente des données commerciales.
 
-![report](SalesReport.png)
+|                        Sales Analysis Report                        |
+| --------------------------------------------------------------------|
+|                    ![report](SalesReport.png)                       |
+
+|         Sales Report 2020        |        Sales Report 2021         |
+| -------------------------------- | -------------------------------- |
+| ![report](SalesReport2020.png)   | ![report](SalesReport2020.png)   |
+

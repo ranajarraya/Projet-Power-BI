@@ -11,3 +11,5 @@ Grâce à des visualisations variées (graphiques linéaires, histogrammes, came
 - La rentabilité par type de produit et période
 
 Ce rapport a pour objectif d’aider les décideurs à suivre les résultats, identifier les tendances, détecter les écarts et orienter les actions stratégiques grâce à une lecture visuelle rapide et pertinente des données commerciales.
+
+![report](SalesReport.png)
